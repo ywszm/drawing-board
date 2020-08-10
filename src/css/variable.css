@@ -1,0 +1,36 @@
+$whiteColor: #FFF;
+$lightBlueColor: #F5F7FA;
+$cursorBlueColor: #EEF4FF;
+$lightGrayColor: #FAFAFA;
+$blackColor: #000;
+
+$fontColor: #303133;
+$fontColorNormal: #606266;
+$fontColorLight: #909399;
+$fontColorLightMore: #C3C6CC;
+
+$borderColor: #DCDFE6;
+$borderColorNormal: #E4E7ED;
+$borderColorLight: #F0F0F0;
+
+$primaryColor: #409EFF;
+$primaryColorDark: #3A84FF;
+$primaryColorLight: #66B1FF;
+$primaryColorDisabled: #A0CFFF;
+$successColor: #67C23A;
+$successColorDark: #5DAF34;
+$successColorLight: #85CE61;
+$successColorDisabled: #B3E09D;
+$warningColor: #E6A23C;
+$warningColorDark: #CF9236;
+$warningColorLight: #EBB563;
+$warningColorDisabled: #F3D19E;
+$dangerColor: #F56C6C;
+$dangerColorDark: #DD6161;
+$dangerColorLight: #F78989;
+$dangerColorDisabled: #FAB6B6;
+
+$disabledColor: #C0C4CC;
+$disabledBorderColor: #EBEEF5;
+$disabledBgColor: #F8F8F8;
+$placeholderColor: #CDCDCD;
